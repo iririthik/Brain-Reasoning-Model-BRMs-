@@ -80,4 +80,5 @@ This mathematical execution pipeline is primarily structured to parse the *struc
 
 # Tribe v2
 https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/
+This project uses TRIBE v2 by Meta FAIR for research purposes.
 you can learn about tribe v2 model by meta which generates the brain data for each dataset
