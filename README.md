@@ -3,7 +3,7 @@
 
 ---
 
-## 🧮 Overview
+##  Overview
 
 This repository houses the **Exact-Word Mathematical Model**, an end-to-end framework built to demonstrate the *organic arithmetic reasoning* capabilities of **Graph Neural Networks (GNN) + Tribev2 (by meta)** scanning functional neural representations. 
 
@@ -17,7 +17,7 @@ By learning the **biological and topological overlaps (Jaccard overlaps)** of th
 
 ---
 
-## ⚙️ Architecture & Signature Readout
+## Architecture & Signature Readout
 
 **Wait, what does this model actually output?**
 This decoder is structurally a **Multi-label Signature Extractor**. It doesn't classify one exact text string answer! If the continuous thought flow translates to thinking an equation like `24 + 5 = 29`, the model simultaneously parses the input brain map and outputs a holistic probability activation spread:
@@ -38,7 +38,7 @@ The system retrieves the **full conceptual fingerprint** behind the math, allowi
 
 ---
 
-## 🚀 Execution Pipeline
+## Execution Pipeline
 
 **Step 1: Setup & Vocabulary Configuration**
 Generate the ultra-lean mathematical token list (`vocabulary.txt`).
