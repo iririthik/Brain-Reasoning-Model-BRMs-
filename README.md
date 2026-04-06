@@ -77,3 +77,7 @@ python predict.py
 ## 🛠️ Performance & Scalability
 
 This mathematical execution pipeline is primarily structured to parse the *structural composition* of pure mathematics dynamically. It proves that a GNN operating on biological fMRI representations doesn't need to have seen `"42+17=59"` to know how to decode it—if it has seen the organic signatures for `42`, `+`, `17`, and `59` independently, the neural topology effortlessly bridges the arithmetic gap during inference.
+
+# Tribe v2
+https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/
+you can learn about tribe v2 model by meta which generates the brain data for each dataset
